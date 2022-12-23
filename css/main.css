@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: chocolate;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 3em;
+}
+
+form {
+    margin-left: 35vw;
+    margin-top: 10vh;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    background-color: black;
+    border-radius: 12px;
+}
+table {
+    padding: 5% 10px;
+}
+
+#display {
+    margin: 15px 10px;
+    padding: 10px 4px;
+    font-size: 28px;
+    width: 250px;
+    color: rgb(162, 162, 162);
+    border-radius: 10px;
+}
+
+input[type=button] {
+    font-family: sans-serif;
+    padding: 0;
+    width: 65px;
+    height: 65px;
+    font-size: 28px;
+    border: none;
+    border-radius: 50%;
+}
